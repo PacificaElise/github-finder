@@ -1,5 +1,5 @@
 {
-  "name": "github-finder",
+  "name": "ts-course-proj-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,8 +9,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "babel src -d lib",
-    "test": "jest",
+    "build": "react-scripts build",
     "component": "generate-react component"
   },
   "eslintConfig": {
